@@ -8,6 +8,10 @@
 
 ***[Feedbro](https://nodetics.com/feedbro/ "Go to Feedbro Project homepage")*** *是一个快速、免费的RSS feed阅读器，可作为[Chrome](https://chrome.google.com/webstore/detail/feedbro/mefgmmbdailogpfhfblcnnjfmnpnmdfa "转到Feedbro的Chrome扩展页面"), Vivaldi, [Edge](https://microsoftedge.microsoft.com/addons/detail/pdfbckdfhgaohcfdkcgpggcifmalimfd "转到Feedbro的Edge扩展页面"), Brave and [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/feedbroreader/ "转到Feedbro的Firefox扩展页面")等浏览器的扩展程序，用于订阅博客、新闻或任何基于RSS、Atom或RDF的feed源。*
 
+## 目标
+
+看着舒服，不是信雅达
+
 ## 使用
 
 按照以下路径为Feedbro导入简体中文语言设置: 
