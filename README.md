@@ -14,10 +14,14 @@
 
 Feedbro > Options/Settings Page > User interface language > Import locale > URL address of the Feedbro Locale (JSON-file):
 
-https://raw.githubusercontent.com/benzbrake/feedbro-locale/master/feedbro-locale-zh_CN.json
+<https://raw.githubusercontent.com/benzbrake/feedbro-locale/master/feedbro-locale-zh_CN.json>
 
----
+> [!TIP]
+> 由于在中国大陆访问 git raw 极其缓慢，请使用镜像链接
+> - <https://cdn.jsdmirror.com/gh/benzBrake/feedbro-locale@master/feedbro-locale-zh_CN.json>
+> - <https://ghmirror.pp.ua/https://raw.githubusercontent.com/benzbrake/feedbro-locale/master/feedbro-locale-zh_CN.json>
 
 ## License
 
 GNU General Public License v3.0
+
