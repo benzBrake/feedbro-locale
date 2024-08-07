@@ -1,7 +1,3 @@
----
-
-# [Feedbro](https://nodetics.com/feedbro/ "转到Feedbro项目主页") RSS阅读器的简体中文语言文件
-
 源仓库：YEWl/feedbro-locale，因为机翻太多，有空就把看到的机翻修改一下。感谢源仓库。
 
 ## Feedbro
